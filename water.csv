@@ -1,0 +1,325 @@
+complaint_text,department,sentiment
+No water supply in our area since morning,Water,Critical
+Water pipeline broken near market,Water,Critical
+Dirty muddy water coming from taps,Water,Critical
+Low water pressure in building,Water,Negative
+Water leakage wasting huge amount of water,Water,Negative
+No drinking water in locality,Water,Critical
+Water tank not cleaned for months,Water,Negative
+Sewage mixed with drinking water,Water,Critical
+Water supply stopped without notice,Water,Negative
+Broken water pipe near school,Water,Critical
+Water overflowing from public tank,Water,Negative
+Tap water smells very bad,Water,Critical
+No water for last three days,Water,Critical
+Water supply timing too short,Water,Negative
+Rusty water coming from tap,Water,Negative
+Water not reaching upper floors,Water,Negative
+Water valve damaged near society,Water,Critical
+Pipeline leakage causing road flooding,Water,Critical
+Water contamination issue in locality,Water,Critical
+Drinking water tastes salty,Water,Negative
+Water tanker not arriving on time,Water,Negative
+Water supply interrupted daily,Water,Negative
+Dirty water causing health issues,Water,Critical
+Public water tap not working,Water,Negative
+Underground water pipe burst,Water,Critical
+Insufficient water in residential area,Water,Negative
+Water meter damaged,Water,Neutral
+Frequent water shortage in society,Water,Negative
+Water pipe repair pending for weeks,Water,Negative
+Tap connection leaking badly,Water,Negative
+No water in school washrooms,Water,Critical
+Water storage tank overflowing,Water,Negative
+Water supply delayed every day,Water,Negative
+Water pressure suddenly drops,Water,Negative
+Brown colored water coming from tap,Water,Critical
+Water contamination after rainfall,Water,Critical
+Drinking water unavailable in park,Water,Neutral
+Water department ignoring complaints,Water,Negative
+Broken public water tap near station,Water,Negative
+Water leakage near hospital,Water,Critical
+No clean water in slum area,Water,Critical
+Water supply unavailable at night,Water,Negative
+Water issue unresolved for months,Water,Negative
+Dirty tap water causing stomach problems,Water,Critical
+Public water tank damaged,Water,Negative
+Water pipeline repair incomplete,Water,Negative
+Irregular water supply timings,Water,Negative
+Drinking water shortage near market,Water,Critical
+Water wastage due to broken valve,Water,Negative
+No emergency water tanker provided,Water,Critical
+No water supply in our area since morning,Water,Critical
+Dirty water coming from tap near market,Water,Critical
+Water pipeline broken near school,Water,Critical
+No drinking water for last three days,Water,Critical
+Water leakage causing huge wastage,Water,Critical
+Sewage water mixing with drinking water,Water,Critical
+No water in society during summer,Water,Critical
+Contaminated water causing illness,Water,Critical
+Underground water pipe burst near road,Water,Critical
+No clean water near hospital area,Water,Critical
+Water supply stopped suddenly,Water,Critical
+Water tank not cleaned for months,Water,Critical
+No emergency water tanker provided,Water,Critical
+Brown dirty water coming from taps,Water,Critical
+Water shortage affecting school washrooms,Water,Critical
+Water issue unresolved for weeks,Water,Critical
+Public water tap broken near station,Water,Critical
+Drinking water unavailable near market,Water,Critical
+Water contamination after rainfall,Water,Critical
+Pipeline damage stopping supply,Water,Critical
+Low water pressure in building,Water,Negative
+Water supply timing too short,Water,Negative
+Water leakage near society gate,Water,Negative
+Irregular water supply every day,Water,Negative
+Tap water smells strange,Water,Negative
+Water department ignoring complaints,Water,Negative
+Water not reaching upper floors,Water,Negative
+Water tanker arriving late,Water,Negative
+Poor water pressure near market,Water,Negative
+Tap leaking continuously,Water,Negative
+Water pipe repair delayed,Water,Negative
+Water storage tank overflowing,Water,Negative
+Water supply delayed daily,Water,Negative
+Rusty water coming from tap,Water,Negative
+Public water tap not working,Water,Negative
+Water meter damaged,Water,Neutral
+Minor water leakage near pipeline,Water,Neutral
+Water supply slightly delayed today,Water,Neutral
+Water pressure normal but slightly low,Water,Neutral
+Small issue in water timing,Water,Neutral
+Water available but pressure reduced,Water,Neutral
+Routine pipeline maintenance observed,Water,Neutral
+Small leakage near water tank,Water,Neutral
+Minor water interruption near colony,Water,Neutral
+Water flow slower than usual,Water,Neutral
+Water supply restored quickly,Water,Positive
+Pipeline repaired successfully,Water,Positive
+Clean water supply resumed,Water,Positive
+Water issue fixed near society,Water,Positive
+Water tanker arrived on time,Water,Positive
+No water supply near railway station,Water,Critical
+Water contaminated with sewage smell,Water,Critical
+Broken water pipe near market area,Water,Critical
+No drinking water in locality for two days,Water,Critical
+Severe water shortage near school,Water,Critical
+Dirty muddy water from tap,Water,Critical
+Public water line damaged badly,Water,Critical
+Water supply stopped without notice,Water,Critical
+Underground pipeline burst near bridge,Water,Critical
+No water in hospital washrooms,Water,Critical
+Water contamination causing stomach problems,Water,Critical
+Major water leakage wasting resources,Water,Critical
+No clean water in slum area,Water,Critical
+Water tank damaged near colony,Water,Critical
+Pipeline crack reducing supply,Water,Critical
+Tap water unsafe for drinking,Water,Critical
+No emergency water support provided,Water,Critical
+Drinking water unavailable for residents,Water,Critical
+Water issue becoming severe daily,Water,Critical
+Contaminated tap water affecting health,Water,Critical
+Water pressure very low near station,Water,Negative
+Frequent interruption in water supply,Water,Negative
+Water tanker delayed again,Water,Negative
+Poor quality water near market,Water,Negative
+Water supply available for short duration,Water,Negative
+Low pressure on upper floors,Water,Negative
+Tap water slightly dirty,Water,Negative
+Pipeline repair work incomplete,Water,Negative
+Irregular water timing in society,Water,Negative
+Water flowing slowly from taps,Water,Negative
+Minor leakage near water valve,Water,Negative
+Water department responding slowly,Water,Negative
+Tap issue unresolved near school,Water,Negative
+Water pressure dropping every evening,Water,Negative
+Slight contamination in tap water,Water,Negative
+Water supply weak near colony,Water,Negative
+Small water delay in morning,Water,Neutral
+Water available with slightly low pressure,Water,Neutral
+Routine water maintenance happening,Water,Neutral
+Small leakage repaired quickly,Water,Neutral
+Water flow stable after repair,Water,Neutral
+Minor supply issue fixed,Water,Neutral
+Water supply resumed after interruption,Water,Neutral
+Slight drop in pressure today,Water,Neutral
+Water tank maintenance observed,Water,Neutral
+Clean water restored near school,Water,Positive
+Water pipeline repaired successfully,Water,Positive
+Good water supply after complaint,Water,Positive
+Water quality improved significantly,Water,Positive
+Regular water supply restored,Water,Positive
+No water supply near railway station,Water,Critical
+Water contaminated with sewage smell,Water,Critical
+Broken water pipe near market area,Water,Critical
+No drinking water in locality for two days,Water,Critical
+Severe water shortage near school,Water,Critical
+Dirty muddy water from tap,Water,Critical
+Public water line damaged badly,Water,Critical
+Water supply stopped without notice,Water,Critical
+Underground pipeline burst near bridge,Water,Critical
+No water in hospital washrooms,Water,Critical
+Water contamination causing stomach problems,Water,Critical
+Major water leakage wasting resources,Water,Critical
+No clean water in slum area,Water,Critical
+Water tank damaged near colony,Water,Critical
+Pipeline crack reducing supply,Water,Critical
+Tap water unsafe for drinking,Water,Critical
+No emergency water support provided,Water,Critical
+Drinking water unavailable for residents,Water,Critical
+Water issue becoming severe daily,Water,Critical
+Contaminated tap water affecting health,Water,Critical
+Water pressure very low near station,Water,Negative
+Frequent interruption in water supply,Water,Negative
+Water tanker delayed again,Water,Negative
+Poor quality water near market,Water,Negative
+Water supply available for short duration,Water,Negative
+Low pressure on upper floors,Water,Negative
+Tap water slightly dirty,Water,Negative
+Pipeline repair work incomplete,Water,Negative
+Irregular water timing in society,Water,Negative
+Water flowing slowly from taps,Water,Negative
+Minor leakage near water valve,Water,Negative
+Water department responding slowly,Water,Negative
+Tap issue unresolved near school,Water,Negative
+Water pressure dropping every evening,Water,Negative
+Slight contamination in tap water,Water,Negative
+Water supply weak near colony,Water,Negative
+Small water delay in morning,Water,Neutral
+Water available with slightly low pressure,Water,Neutral
+Routine water maintenance happening,Water,Neutral
+Small leakage repaired quickly,Water,Neutral
+Water flow stable after repair,Water,Neutral
+Minor supply issue fixed,Water,Neutral
+Water supply resumed after interruption,Water,Neutral
+Slight drop in pressure today,Water,Neutral
+Water tank maintenance observed,Water,Neutral
+Clean water restored near school,Water,Positive
+Water pipeline repaired successfully,Water,Positive
+Good water supply after complaint,Water,Positive
+Water quality improved significantly,Water,Positive
+Regular water supply restored,Water,Positive
+Water pipeline repaired successfully near market,Water,Positive
+Water leakage issue fixed completely,Water,Positive
+Clean water supply restored quickly,Water,Positive
+Water department solved issue fast,Water,Positive
+Pipeline repaired and water supply resumed,Water,Positive
+Water pressure improved after repair,Water,Positive
+Broken pipe repaired successfully,Water,Positive
+Water supply problem resolved,Water,Positive
+Fresh clean water available after repair,Water,Positive
+Water tank cleaned and repaired,Water,Positive
+Water service improved significantly,Water,Positive
+Water complaint fixed successfully,Water,Positive
+Good water pressure after maintenance,Water,Positive
+Water line repaired near colony,Water,Positive
+Water issue solved by department,Water,Positive
+Water flow restored after repair,Water,Positive
+Residents satisfied with water service,Water,Positive
+Pipeline maintenance completed properly,Water,Positive
+Water problem resolved near society,Water,Positive
+Water quality improved after repair,Water,Positive
+Water complaint under review,Water,Neutral
+Water department inspection scheduled,Water,Neutral
+Water tank cleaning planned,Water,Neutral
+Routine pipeline maintenance in progress,Water,Neutral
+Water supply expected to resume soon,Water,Neutral
+Minor water issue reported,Water,Neutral
+Water pressure checked by authorities,Water,Neutral
+Pipeline inspection completed,Water,Neutral
+Water complaint registered successfully,Water,Neutral
+Water service request accepted,Water,Neutral
+Clean water restored successfully,Water,Positive
+Water pressure improved significantly,Water,Positive
+Water supply issue resolved quickly,Water,Positive
+Broken pipeline repaired successfully,Water,Positive
+Residents satisfied with water supply,Water,Positive
+Water quality improved after repair,Water,Positive
+Water problem fixed immediately,Water,Positive
+Pipeline repaired without delay,Water,Positive
+Regular water service resumed,Water,Positive
+No drinking water for many days,Water,Critical
+Contaminated water affecting residents,Water,Critical
+Water shortage becoming severe,Water,Critical
+Broken water line stopped supply,Water,Critical
+Unsafe tap water causing illness,Water,Critical
+Emergency water shortage in hospital area,Water,Critical
+Contaminated water causing health danger,Water,Critical
+No drinking water for several days,Water,Critical
+Broken pipeline stopping water supply,Water,Critical
+Unsafe tap water causing illness,Water,Critical
+Major water leakage wasting huge amount,Water,Critical
+Water contamination affecting residents,Water,Critical
+No emergency water tanker provided,Water,Critical
+Water shortage creating severe difficulty,Water,Critical
+Dirty water unsafe for drinking,Water,Critical
+Water pressure lower than usual,Water,Negative
+Water tanker arriving very late,Water,Negative
+Water supply timing too short,Water,Negative
+Minor leakage near society pipeline,Water,Negative
+Water issue unresolved for days,Water,Negative
+Poor water pressure near building,Water,Negative
+Tap water quality slightly poor,Water,Negative
+Water department responding slowly,Water,Negative
+Water flow reduced in morning,Water,Negative
+Irregular water timing in locality,Water,Negative
+Water complaint registered,Water,Neutral
+Pipeline inspection scheduled,Water,Neutral
+Routine water maintenance happening,Water,Neutral
+Water tank cleaning planned,Water,Neutral
+Water department reviewing issue,Water,Neutral
+Water service request accepted,Water,Neutral
+Minor water issue reported,Water,Neutral
+Water supply inspection completed,Water,Neutral
+Routine pipeline check completed,Water,Neutral
+Water pressure inspection scheduled,Water,Neutral
+Water supply restored successfully,Water,Positive
+Clean water resumed quickly,Water,Positive
+Pipeline repaired successfully,Water,Positive
+Water issue solved immediately,Water,Positive
+Residents happy with water service,Water,Positive
+Water pressure improved significantly,Water,Positive
+Clean water available again,Water,Positive
+Water department fixed issue fast,Water,Positive
+Water quality improved after repair,Water,Positive
+Regular water service resumed,Water,Positive
+Water pressure lower than normal,Water,Negative
+Irregular water timing causing inconvenience,Water,Negative
+Water tanker arriving late repeatedly,Water,Negative
+Water flow weaker than usual,Water,Negative
+Minor leakage near society pipeline,Water,Negative
+Water issue unresolved for several days,Water,Negative
+Poor water pressure affecting residents,Water,Negative
+Water department response very slow,Water,Negative
+Tap water quality slightly poor,Water,Negative
+Water supply timing inconvenient,Water,Negative
+Water supply inspection scheduled,Water,Neutral
+Water department reviewing complaint,Water,Neutral
+Routine pipeline check underway,Water,Neutral
+Water maintenance planned tomorrow,Water,Neutral
+Water tank inspection completed,Water,Neutral
+Authorities checking water supply issue,Water,Neutral
+Minor water concern reported,Water,Neutral
+Water complaint forwarded for review,Water,Neutral
+Routine maintenance scheduled for pipeline,Water,Neutral
+Water service inspection in progress,Water,Neutral
+Low water pressure causing inconvenience,Water,Negative
+Water tanker arrived very late,Water,Negative
+Severe water contamination causing illness,Water,Critical
+No drinking water for entire locality,Water,Critical
+Water complaint under department review,Water,Neutral
+No water supply for three days in society,Water,Critical
+No drinking water available since yesterday,Water,Critical
+Complete water shortage in locality,Water,Critical
+No water supply near residential building,Water,Critical
+Drinking water unavailable for several days,Water,Critical
+Water supply stopped for many days,Water,Critical
+No clean water available in society,Water,Critical
+Emergency water shortage affecting residents,Water,Critical
+Water unavailable in building since morning,Water,Critical
+No water supply causing severe problems,Water,Critical
+Water not available for entire day,Water,Critical
+Complete water outage in society,Water,Critical
+No drinking water in apartment building,Water,Critical
+Water crisis in residential area,Water,Critical
+Water supply completely stopped,Water,Critical

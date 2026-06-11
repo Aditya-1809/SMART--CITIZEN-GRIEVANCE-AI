@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+
+grievance_model.pkl
+text_encoder.pkl
