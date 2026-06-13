@@ -285,4 +285,3 @@ Sentiment: Positive
 
 **Aditya Bhandarakar**
 **Pooja Gupta**
-**Atharv Ramane
