@@ -1,0 +1,16 @@
+MODEL EXPERIMENT TRACKING
+
+Logistic Regression Accuracy: 96.36%
+
+Naive Bayes Accuracy: 94.55%
+
+Random Forest Accuracy: 96.97%
+
+Final Selected Model:
+Logistic Regression
+
+Reason:
+Although Random Forest achieved slightly higher accuracy,
+Logistic Regression was selected due to lower inference
+latency, lower computational cost, and efficient
+performance on sparse TF-IDF text data.
